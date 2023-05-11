@@ -1,1 +1,1 @@
-# javascript-2-minutes
+# Tiny JS Snippets
